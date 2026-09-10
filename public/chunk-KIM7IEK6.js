@@ -1,0 +1,1 @@
+var o={production:!0,baseHref:"/",checkoutWebhook:"",trialWebhook:"",callbackWebhook:"",docWebhook:"",partnerWebhook:"",chatEndpoint:"",faqApi:"",strapiUrl:"https://admin.xcellhost.top"};export{o as a};

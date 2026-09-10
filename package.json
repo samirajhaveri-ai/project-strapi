@@ -1,0 +1,49 @@
+{
+  "name": "xcellhost-strapi",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A Strapi application",
+  "scripts": {
+    "build": "strapi build",
+    "console": "strapi console",
+    "deploy": "strapi deploy",
+    "dev": "strapi develop",
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "start:plesk": "node server.js",
+    "seed:blogs": "node scripts/seed-blogs.js",
+    "assign:blog-pages": "node scripts/assign-blog-pages.js",
+    "seed:cloud-drive-blogs": "node scripts/seed-cloud-drive-blogs.js",
+    "strapi": "strapi",
+    "upgrade": "npx @strapi/upgrade latest",
+    "upgrade:dry": "npx @strapi/upgrade latest --dry"
+  },
+  "dependencies": {
+    "@strapi/database": "5.52.0",
+    "@strapi/plugin-cloud": "5.52.0",
+    "@strapi/plugin-users-permissions": "5.52.0",
+    "@strapi/strapi": "5.52.0",
+    "better-sqlite3": "12.8.0",
+    "mysql2": "^3.23.3",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-markdown": "^10.1.0",
+    "react-router-dom": "^6.30.3",
+    "remark-gfm": "^4.0.1",
+    "styled-components": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=20.0.0 <=26.x.x",
+    "npm": ">=6.0.0"
+  },
+  "strapi": {
+    "uuid": "133e4fd4-a7c6-4aa0-bc7b-9e15cd6a37f3",
+    "installId": "f21e6ec896ad6e9cef430b72848466d3e5bf2c3d322121390491386c8a955944"
+  }
+}

@@ -1,0 +1,1 @@
+import{R as i,ha as e}from"./chunk-5SR22IFG.js";var a=class t{_topic=e("");topic=this._topic.asReadonly();ask(o){this._topic.set(o)}clear(){this._topic.set("")}static \u0275fac=function(c){return new(c||t)};static \u0275prov=i({token:t,factory:t.\u0275fac,providedIn:"root"})};export{a};

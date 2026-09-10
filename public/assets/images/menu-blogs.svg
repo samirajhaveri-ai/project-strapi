@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 240" role="img" aria-labelledby="title desc">
+  <title id="title">XcellHost expert blogs</title><desc id="desc">Digital articles about cloud, security and infrastructure</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#edf4ff"/><stop offset="1" stop-color="#f5f1ff"/></linearGradient></defs>
+  <rect width="560" height="240" rx="26" fill="url(#bg)"/>
+  <g transform="translate(92 27) rotate(-5 150 90)"><rect width="350" height="184" rx="20" fill="#fff" stroke="#bdd2f2" stroke-width="5"/><rect x="25" y="24" width="300" height="58" rx="12" fill="#0c2e60"/><circle cx="55" cy="53" r="15" fill="#55d6bd"/><path d="M85 43h190M85 63h135" stroke="#fff" stroke-width="8" stroke-linecap="round"/><path d="M28 108h122M28 132h158M28 156h104" stroke="#b8cae2" stroke-width="9" stroke-linecap="round"/><rect x="218" y="104" width="106" height="58" rx="11" fill="#e9f1ff"/><path d="m237 145 25-25 18 16 25-24" fill="none" stroke="#1769ff" stroke-width="7" stroke-linecap="round"/></g>
+  <circle cx="464" cy="67" r="40" fill="#1769ff"/><path d="M447 67h34m-17-17v34" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+</svg>

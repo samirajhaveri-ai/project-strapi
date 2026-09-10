@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 240" role="img" aria-labelledby="title desc">
+  <title id="title">Our team and story</title><desc id="desc">A diverse group of XcellHost cloud and security specialists</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaf3ff"/><stop offset="1" stop-color="#eefbf7"/></linearGradient></defs>
+  <rect width="560" height="240" rx="26" fill="url(#bg)"/>
+  <circle cx="280" cy="85" r="44" fill="#1769ff"/><circle cx="151" cy="104" r="36" fill="#00a887"/><circle cx="409" cy="104" r="36" fill="#7456e8"/>
+  <circle cx="280" cy="76" r="15" fill="#fff"/><path d="M248 119c7-23 21-34 32-34s25 11 32 34" fill="#fff"/>
+  <circle cx="151" cy="98" r="12" fill="#fff"/><path d="M125 132c6-18 17-27 26-27s20 9 26 27" fill="#fff"/>
+  <circle cx="409" cy="98" r="12" fill="#fff"/><path d="M383 132c6-18 17-27 26-27s20 9 26 27" fill="#fff"/>
+  <path d="M102 191c10-35 29-52 49-52s39 17 49 52M212 197c13-45 40-68 68-68s55 23 68 68M360 191c10-35 29-52 49-52s39 17 49 52" fill="#fff" stroke="#bdd1ee" stroke-width="4"/>
+  <path d="M202 66c19-22 44-35 72-37m84 37c-19-22-44-35-72-37" fill="none" stroke="#7ca8e8" stroke-width="5" stroke-linecap="round" stroke-dasharray="8 10"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 240" role="img" aria-labelledby="title desc">
+  <title id="title">Data analytics dashboard</title><desc id="desc">Business intelligence dashboard with charts and metrics</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaf8ff"/><stop offset="1" stop-color="#ecfff8"/></linearGradient><linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop stop-color="#0aa88a"/><stop offset="1" stop-color="#1769ff"/></linearGradient></defs>
+  <rect width="560" height="240" rx="26" fill="url(#bg)"/><rect x="35" y="30" width="490" height="180" rx="22" fill="#fff" stroke="#c2d9ee" stroke-width="5"/>
+  <rect x="61" y="54" width="115" height="18" rx="8" fill="#0b2b58"/><rect x="61" y="88" width="126" height="88" rx="13" fill="#edf4ff"/>
+  <circle cx="124" cy="132" r="31" fill="none" stroke="#d5e4f6" stroke-width="15"/><path d="M124 101a31 31 0 0 1 28 45" fill="none" stroke="#1769ff" stroke-width="15" stroke-linecap="round"/>
+  <g fill="url(#bar)"><rect x="224" y="130" width="30" height="47" rx="6"/><rect x="271" y="105" width="30" height="72" rx="6"/><rect x="318" y="75" width="30" height="102" rx="6"/><rect x="365" y="116" width="30" height="61" rx="6"/></g>
+  <path d="M220 97l50-28 48 19 51-35 76 34" fill="none" stroke="#7456e8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="445" cy="87" r="8" fill="#7456e8"/>
+  <rect x="424" y="122" width="70" height="54" rx="12" fill="#e9fbf7"/><path d="m443 150 12 11 22-28" fill="none" stroke="#0aa88a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

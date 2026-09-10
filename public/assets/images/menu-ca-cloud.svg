@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 240" role="img" aria-labelledby="title desc">
+  <title id="title">CA Cloud accounting workspace</title><desc id="desc">Cloud accounting dashboard with calculator and financial chart</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaf3ff"/><stop offset="1" stop-color="#eefbf7"/></linearGradient><linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1769ff"/><stop offset="1" stop-color="#00a887"/></linearGradient></defs>
+  <rect width="560" height="240" rx="26" fill="url(#bg)"/>
+  <path d="M82 87c10-34 42-58 80-58 40 0 73 26 81 63 31 2 56 27 56 59 0 33-27 60-60 60H96c-37 0-67-29-67-65 0-32 23-58 53-64z" fill="#fff" stroke="#bfd6f7" stroke-width="5"/>
+  <rect x="108" y="92" width="106" height="88" rx="14" fill="#0c2d5c"/>
+  <rect x="124" y="108" width="74" height="18" rx="5" fill="#8edfd0"/>
+  <g fill="#fff"><rect x="124" y="138" width="15" height="13" rx="3"/><rect x="146" y="138" width="15" height="13" rx="3"/><rect x="168" y="138" width="30" height="13" rx="3"/><rect x="124" y="158" width="15" height="13" rx="3"/><rect x="146" y="158" width="15" height="13" rx="3"/><rect x="168" y="158" width="30" height="13" rx="3"/></g>
+  <rect x="281" y="42" width="245" height="156" rx="20" fill="#fff" stroke="#bfd6f7" stroke-width="5"/>
+  <rect x="303" y="66" width="86" height="11" rx="5" fill="#c8d8ec"/><rect x="303" y="87" width="54" height="8" rx="4" fill="#e1eaf5"/>
+  <path d="M310 164l45-38 37 20 52-58 53 36" fill="none" stroke="url(#blue)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#1769ff"><circle cx="310" cy="164" r="8"/><circle cx="355" cy="126" r="8"/><circle cx="392" cy="146" r="8"/><circle cx="444" cy="88" r="8"/><circle cx="497" cy="124" r="8"/></g>
+</svg>
