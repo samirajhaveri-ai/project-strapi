@@ -17,15 +17,22 @@ export default {
    * run jobs, or perform some special logic.
    */
   async bootstrap({ strapi }: { strapi: Core.Strapi }) {
-    // Blog content is intentionally public read-only. All create, update and
-    // delete operations remain protected behind the Strapi admin panel.
+    // Blog and Use Case content is intentionally public read-only. All create,
+    // update and delete operations remain protected behind the admin panel.
     const publicRole = await strapi.db.query('plugin::users-permissions.role').findOne({
       where: { type: 'public' },
     });
 
     if (!publicRole) return;
 
-    for (const action of ['api::blog.blog.find', 'api::blog.blog.findOne']) {
+    const publicReadActions = [
+      'api::blog.blog.find',
+      'api::blog.blog.findOne',
+      'api::use-case.use-case.find',
+      'api::use-case.use-case.findOne',
+    ];
+
+    for (const action of publicReadActions) {
       const existing = await strapi.db.query('plugin::users-permissions.permission').findOne({
         where: { action, role: publicRole.id },
       });
