@@ -1,11 +1,11 @@
 {
     "kind": "collectionType",
-    "collectionName": "blogs",
+    "collectionName": "use_cases",
     "info": {
-        "singularName": "blog",
-        "pluralName": "blogs",
-        "displayName": "Blog",
-        "description": "Dynamic blog posts displayed on the XCELLHOST website"
+        "singularName": "use-case",
+        "pluralName": "use-cases",
+        "displayName": "Use Case",
+        "description": "Use cases displayed on the XcellHost website"
     },
     "options": {
         "draftAndPublish": true
